@@ -1,0 +1,3 @@
+16G
+27 inverted indexes and 27 offset files
+12693003 total tokens
